@@ -39,5 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# data/search-index.json # Keep this commented out if you want to ignore it, but we'll explicitly ignore it below
+data/*.bak
 data/search-index.json
 
